@@ -1,0 +1,16 @@
+.form-group .event_date.date.date-picker {
+    padding-left: 14px;
+}
+
+.form-group .event_date .input-group-btn {
+    display: block;
+}
+
+.select-existing-client {
+    cursor: pointer;
+    display: none;
+}
+
+.form-group .help-block.email_instruction {
+    color: #B08375;
+}

@@ -1,0 +1,13 @@
+/bootstrap/compiled.php
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+.idea/
+_ide_helper.php
+.buildpath
+.project
+.settings/
+/public/uploads/
+/public/uploads/marketing-materials/
